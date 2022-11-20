@@ -6,7 +6,8 @@
 
     `Note Untuk penamaan folder dan file bisa sesuai keinginan kalian`
 
-   ![img folder](img/folder.png)
+   ![tabulate 22](https://user-images.githubusercontent.com/115931631/202900091-65e58398-c8a4-4e38-a3bc-e9a7b1b24941.png)
+
 
 2. Selanjutnya buka file `List.py` lalu masukan code dibawah ini :
 
@@ -71,14 +72,15 @@
 
 3. Selanjutnya jalankan file dengan cara buka terminal lalu ketikan `python List.py` dan berikut hasilnya :
 
-    ![img hasil List.py](img/list.png)
+   ![tabulate -1](https://user-images.githubusercontent.com/115931631/202899794-13d99a07-d217-410c-8bc9-07faf28f3a90.png)
+
 
 
 ## Membuat program input data mahasiswa beserta nilai dan disimpan didalam List.
 
   Berikut Flowchart program yang akan kita buat :
 
-  ![flowchart program](img/flowchart.png)
+  ![Flo](https://user-images.githubusercontent.com/115931631/202899929-e5f16dbe-b410-408c-9995-547f1b30b493.png)
 
 #### Requirement
 - Pip [install pip](https://pypi.org/project/pip/)
@@ -87,7 +89,8 @@
 
 1. Pertama kita install Package `Tabulate` dengan cara buka terminal lalu copas `pip install tabulate` sebagai berikut :
 
-    ![tabulate](img/tabulate.png)
+    ![pip](https://user-images.githubusercontent.com/115931631/202900251-2030196f-5da4-4c2b-b052-29902150e49c.png)
+
 
 2. Lalu buka file `Praktikum5.py` dan masukan code berikut
 
@@ -136,8 +139,6 @@
 
 3. Selanjutnya jalankan file dengan cara buka terminal lalu ketikan `python Praktikum5.py` dan berikut hasilnya :
 
-    ![hasil praktium5](img/praktikum5.png)
+    ![tabulate 2](https://user-images.githubusercontent.com/115931631/202899811-3f6d4b9a-8c2f-43dd-b262-623befa387d6.png)
 
     `Selesai terima kasih`
-
-    [saweria](https://saweria.co/adamwebdev)
